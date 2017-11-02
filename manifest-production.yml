@@ -2,4 +2,4 @@
 applications:
 - name: pal-tracker
   path: build/libs/pal-tracker.jar
-  host: KNRps-pal-tracker-review
+  host: KNRps-pal-tracker
